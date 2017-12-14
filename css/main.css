@@ -108,7 +108,7 @@ section img:nth-child(5) {
 
 @media only screen and (min-width: 60em) {
 
- section img:first-child {
+  section img:first-child {
     width: 66.6666%;
     float: left;
   }
